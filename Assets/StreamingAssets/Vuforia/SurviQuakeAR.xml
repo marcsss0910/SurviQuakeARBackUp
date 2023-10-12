@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="glasscrack2" size="4.000000 4.000000" />
+    <ImageTarget name="glasscrack1" size="4.000000 4.000000" />
+    <ImageTarget name="Crack2" size="6.000000 6.000000" />
+    <ImageTarget name="Crack1" size="4.000000 4.000000" />
+    <ImageTarget name="WarningSign" size="4.000000 2.935000" />
+    <ImageTarget name="StopWarningSign" size="4.000000 3.285156" />
+    <ImageTarget name="exitWarningSign" size="4.000000 4.000000" />
+    <ImageTarget name="LockWarningSign" size="4.000000 4.000000" />
+    <ImageTarget name="ExlamationWarningSign" size="4.000000 3.833846" />
+    <ImageTarget name="XwarningSign" size="4.000000 4.160000" />
+    <ImageTarget name="CloseWarningSign" size="4.000000 2.900000" />
+    <ImageTarget name="ArrowSignGreen" size="4.000000 4.000000" />
+    <ImageTarget name="ArrowSignRed" size="4.000000 4.000000" />
+    <ImageTarget name="CannedGoods" size="4.000000 4.000000" />
+    <ImageTarget name="BottledWater" size="4.000000 3.347692" />
+    <ImageTarget name="Flashlight" size="4.000000 4.000000" />
+    <ImageTarget name="Battery" size="4.000000 4.000000" />
+    <ImageTarget name="Whistle" size="4.000000 4.000000" />
+    <ImageTarget name="MedicalKit" size="4.000000 4.000000" />
+    <ImageTarget name="Book" size="4.000000 4.000000" />
+  </Tracking>
+</QCARConfig>
